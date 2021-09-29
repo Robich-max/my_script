@@ -1,0 +1,6 @@
+[23-Jul-2020 15:53:39 Africa/Casablanca] PHP Fatal error:  Cannot use [] for reading in /home/elecawfp/public_html/themes/store/header.php on line 401
+[23-Jul-2020 15:55:27 Africa/Casablanca] PHP Fatal error:  Cannot use [] for reading in /home/elecawfp/public_html/themes/store/header.php on line 401
+[23-Jul-2020 15:55:31 Africa/Casablanca] PHP Fatal error:  Cannot use [] for reading in /home/elecawfp/public_html/themes/store/header.php on line 401
+[23-Jul-2020 21:47:03 Africa/Casablanca] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/elecawfp/public_html/application/controllers/Admin.php on line 737
+[22-Nov-2020 00:25:01 Africa/Casablanca] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/elecawfp/u-childrenteeth.com/application/controllers/Ajax.php on line 38
+[18-Dec-2020 10:40:16 Africa/Casablanca] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/elecawfp/u-childrenteeth/themes/enAdmin/index.php on line 1808

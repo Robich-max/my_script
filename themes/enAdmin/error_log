@@ -1,0 +1,190 @@
+[20-Jul-2020 02:33:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/public_html/themes/enAdmin/inc/header.php:11
+Stack trace:
+#0 /home/elecawfp/public_html/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/public_html/themes/enAdmin/inc/header.php on line 11
+[25-Jul-2020 02:41:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/public_html/themes/enAdmin/inc/header.php:11
+Stack trace:
+#0 /home/elecawfp/public_html/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/public_html/themes/enAdmin/inc/header.php on line 11
+[26-Jul-2020 07:32:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/public_html/themes/enAdmin/inc/header.php:11
+Stack trace:
+#0 /home/elecawfp/public_html/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/public_html/themes/enAdmin/inc/header.php on line 11
+[11-Oct-2020 15:07:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/public_html/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/public_html/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/public_html/themes/enAdmin/inc/header.php on line 12
+[21-Nov-2020 06:59:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[21-Nov-2020 08:01:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[21-Nov-2020 10:13:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[21-Nov-2020 10:13:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[21-Nov-2020 12:10:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[21-Nov-2020 14:27:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[22-Nov-2020 14:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[23-Nov-2020 01:05:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[23-Nov-2020 02:49:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[23-Nov-2020 02:49:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[23-Nov-2020 03:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[23-Nov-2020 07:37:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[23-Nov-2020 09:26:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[23-Nov-2020 10:57:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[24-Nov-2020 02:56:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[24-Nov-2020 02:56:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[24-Nov-2020 09:23:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[24-Nov-2020 09:58:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[24-Nov-2020 09:59:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[24-Nov-2020 10:00:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[25-Nov-2020 08:28:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[25-Nov-2020 14:27:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[26-Nov-2020 11:38:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[27-Nov-2020 02:13:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[27-Nov-2020 03:18:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[27-Nov-2020 03:54:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[27-Nov-2020 05:22:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[30-Nov-2020 11:13:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[30-Nov-2020 11:13:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[01-Dec-2020 03:23:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[01-Dec-2020 03:23:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[01-Dec-2020 03:23:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[01-Dec-2020 03:24:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12
+[01-Dec-2020 03:27:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php:12
+Stack trace:
+#0 /home/elecawfp/u-childrenteeth.com/themes/enAdmin/index.php(1): include_once()
+#1 {main}
+  thrown in /home/elecawfp/u-childrenteeth.com/themes/enAdmin/inc/header.php on line 12

@@ -1,0 +1,178 @@
+<?php include_once 'inc/header.php'; ?>
+
+<div id="content-wrapper" class="d-flex flex-column">
+
+	<!-- Main Content -->
+	<div id="content">
+
+		<?php include_once 'inc/navbar.php'; ?>
+
+		<?php if($tp == "add") { ?>
+
+			<div class="container-fluid">
+
+				<!-- Page Heading -->
+				<h1 class="h3 mb-2 text-gray-800"><?=lang("admin_h124");?></h1>
+
+				<!-- DataTales Example -->
+				<div class="card shadow mb-4">
+					<div class="card-header py-3">
+						<h6 class="m-0 font-weight-bold text-primary"><?=lang("admin_h125");?></h6>
+					</div>
+					<div class="card-body">
+					
+					<?php if(isset($msg)){ ?>
+						<div class="alert alert-success"><?=lang("admin_h126");?> .</div>
+					<?php } ?>
+
+						<fieldset>
+
+							<?php echo form_open_multipart("",array("class" => "form-horizontal")); ?>
+								
+								<div class="form-group">
+									<label for="inp1"><?=lang("admin_h127");?></label>
+									<input type="text" class="form-control" name="coupon" >
+								</div>
+
+								<div class="form-group">
+									<label for="inp2"><?=lang("admin_h34");?> %</label>
+									<input type="number" class="form-control" name="num">
+								</div>
+
+								<div class="form-group">
+									<label for="inp3"><?=lang("admin_h128");?></label>
+									<input type="date" class="form-control" name="date">
+								</div>
+
+
+								<button type="submit" class="btn btn-primary" name="test"><?=lang("admin_h120");?></button>
+							<?php echo form_close(); ?>
+
+						</fieldset>
+
+
+					</div>
+				</div>
+
+			</div>
+			<!-- /.container-fluid -->
+
+
+		<?php }elseif($tp == "edit"){ ?>
+			
+			<?php foreach($cat as $key) : ?>
+
+			<div class="container-fluid">
+
+				<!-- Page Heading -->
+				<h1 class="h3 mb-2 text-gray-800"><?=lang("admin_h124");?></h1>
+
+				<!-- DataTales Example -->
+				<div class="card shadow mb-4">
+					<div class="card-header py-3">
+						<h6 class="m-0 font-weight-bold text-primary"><?=lang("admin_h129");?></h6>
+					</div>
+					<div class="card-body">
+
+						<fieldset>
+
+							<?php echo form_open_multipart("",array("class" => "form-horizontal")); ?>
+								<div class="form-group">
+									<label for="inp1"><?=lang("admin_h127");?></label>
+									<input type="text" class="form-control" name="coupon" value="<?php echo $key->coupon; ?>">
+								</div>
+
+								<div class="form-group">
+									<label for="inp2"><?=lang("admin_h124");?> %</label>
+									<input type="text" class="form-control" name="num" value="<?php echo $key->num; ?>">
+								</div>
+
+								<div class="form-group">
+									<label for="inp3"><?=lang("admin_h128");?></label>
+									<input type="date" class="form-control" name="date" value="<?php echo $key->date; ?>">
+								</div>
+
+								<button type="submit" class="btn btn-primary" name="test"><?=lang("admin_h120");?></button>
+							<?php echo form_close(); ?>
+
+						</fieldset>
+
+
+					</div>
+				</div>
+
+			</div>
+			<!-- /.container-fluid -->
+
+			<?php endforeach; ?>
+
+
+		<?php }else { ?>
+
+
+
+
+			<div class="container-fluid">
+
+				<!-- Page Heading -->
+				<h1 class="h3 mb-2 text-gray-800">Discounts</h1>
+
+				<!-- DataTales Example -->
+				<div class="card shadow mb-4">
+					<div class="card-header py-3">
+						<h6 class="m-0 font-weight-bold text-primary">List coupons</h6>
+					</div>
+					<div class="card-body">
+						<div class="table-responsive">
+							<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+								<thead>
+									<tr>
+										<th>#</th>
+										<th>Code</th>
+										<th>Used</th>
+										<th>Discount</th>
+										<th>Ends</th>
+										<th><?php echo lang("admin_h30"); ?></th>
+									</tr>
+								</thead>
+								<tfoot>
+									<tr>
+										<th>#</th>
+										<th>Code</th>
+										<th>Used</th>
+										<th>Discount</th>
+										<th>Ends</th>
+										<th><?php echo lang("admin_h30"); ?></th>
+									</tr>
+								</tfoot>
+								<tbody>
+									<?php foreach($cat as $key) {  ?>
+									<tr>
+										<td><?php echo $key->id; ?></td>
+										<td><?php echo $key->coupon; ?></td>
+										<td><?php echo $this->m_p->get_num("orders", array("coupon" => $key->coupon)); ?></td>
+										<td><?php echo $key->num; ?>%</td>
+										<td><?php echo $key->date; ?></td>
+										<td>
+											<a href="<?php echo base_url("admin/edit_discount/$key->id"); ?>" class="btn btn-primary btn-circle btn-sm"><i class="fas fa-edit"></i></a>
+											<a href="<?php echo base_url("admin/delt/discounts/$key->id/discounts"); ?>" class="btn btn-danger btn-circle btn-sm"><i class="fas fa-trash"></i></a>
+										</td>
+									</tr>
+									<?php } ?>
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>
+
+			</div>
+			<!-- /.container-fluid -->
+
+
+
+		<?php } ?>
+
+</div>
+
+
+<?php include_once 'inc/footer.php'; ?>

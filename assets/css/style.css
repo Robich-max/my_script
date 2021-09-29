@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+/* Top-bar1 */
+
+.top-bar-style1 {
+    background: #495b70;
+}    
+
+.twitter-class {
+	
+	color: #FFFAFA;
+} 
+
+.twitter-class:hover{
+    background: #9CD9C2;	
+
+}
+.facebook-class {
+	
+	color: #FFFAFA;
+
+}
+.instagram-class {
+	
+	color: #FFFAFA;
+
+}
+
+.header-text {
+	color: #FFFAFA;
+}
+
+.email-text {
+	color: #FFFAFA;
+}
+
+.currancy-text {
+	color: #000;
+}
+
+/* Top-bar2 */
+
+.cart-num {
+	
+	color: #FFFAFA;
+
+}
+
+
+.nav-item {
+	color: #00000 !important;
+}
+
+.nav-item-highlight {
+	color: red !important;
+}
+
+/* Slids */
+
+.flash-text {
+	color: #FFFAFA;
+	animation: blinker 1s linear infinite;
+}
+
+.slider-item {
+
+	color: #FFFAFA;
+}
+
+.top-bar-style {
+    background: #9CD9C2;
+}
+
+/* Bannière */
+
+.image-first-text {
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 62px;
+}
+
+.image-second-text {
+	color: #8DC1E4;
+	text-align: center;
+	font-size: 30px;
+}
+
+.image-btn {
+	color: #111;
+	background: #FFFAFA;
+}
+
+/* Slids-Product Home  */
+
+.Text-desssousbanniere {
+	color: #111;
+	
+}	
+
+.top-slider-item {
+	color: #aaa;
+}
+
+.product-title {
+	color: #111;
+}
+
+.product-description {
+	color: #111;
+}
+
+.product-btn {
+	color: #FFFAFA;
+	background: #9CD9C2;
+	border: 1px solid #9CD9C2;
+}
+
+.featured-products {
+	color: #111 !important;
+	
+}
+
+.product-item-title {
+	color: #00000 !important;
+}
+
+.product-item-hidden-price {
+	color: red;
+}
+
+/* Reviews  */
+
+.user-actif {
+	color: #111;
+}
+.reviews {
+	background: #ccc;
+}
+
+/* Footer  */
+
+.footer-bg {
+	background: #495b6f;
+}
+
+.footer-headline {
+	color: #FFFAFA;
+}
+
+.footer-text {
+	color: #FFFAFA;
+}
+
+.subscribe-button {
+	color: #fff;
+	background: #9CD9C2;
+}
+
+/* Page-product  */
+
+.product-page-title {
+	color: black !important;
+	text-transform: uppercase;
+	font-size: 24px;
+	font-family: 'Sora', sans-serif;
+	font-weight: bold;
+}
+
+.price-page-hidden {
+	color: #9CD9C2;
+	font-size: 20px;
+}
+
+.oldprice-page-hidden {
+    color: red !important;
+}
+
+.rensignement-text {
+	color: #111;
+	
+}
+
+.page-product .list-infos {
+	color: #fff;
+	font-weight: bold;
+}
+
+.add-to-cart-style {
+	background: #9CD9C2;
+	color: #FFFAFA;
+
+	
+}
+
+.reviews-btn {
+	color: #fff;
+	background: #9CD9C2;
+	border: 1px solid #9CD9C2;
+	border-radius: 3.3rem;
+}
+
+.reviews-btn:hover{
+    background: #9ad0bc;
+}
+.page-product .add-to-cart-bottom {
+	background: #ccc;
+}
+
+.cart-header-btns {
+	color: #111;
+	background: #9CD9C2;
+}
+
+.coupon-btns {
+	color: #FFFAFA;
+	background: #9CD9C2;
+	border: 1px solid #9CD9C2;
+	border-radius: 3.3rem;
+}
+#profite
+{
+    margin: 14px auto -14px;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+  
+ 
+}
+
